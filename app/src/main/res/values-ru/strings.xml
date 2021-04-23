@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Андроид_Материальный_Дизайн</string>
+    <string name="photo_of_the_day_stub">Фото дня</string>
+    <string name="search_wiki">Найти в Википедии</string>
+    <string name="wiki_helper_text">Поищите термин в википедии</string>
+</resources>

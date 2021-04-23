@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="padding_parent">10dp</dimen>
+    <dimen name="size_zero">0dp</dimen>
+    <dimen name="padding_layout">10dp</dimen>
+    <dimen name="width_bottomSheetLine">25dp</dimen>
+    <dimen name="height_bottomSheetLine">1dp</dimen>
+    <dimen name="marginTop_bottomSheetLine">5dp</dimen>
+    <dimen name="margin_view">5dp</dimen>
+    <dimen name="padding_view">10dp</dimen>
+</resources>
