@@ -8,7 +8,7 @@
     android:layout_height="match_parent"
     android:background="#f6f6fa"
     app:behavior_hideable="true"
-    app:behavior_peekHeight="100dp"
+    app:behavior_peekHeight="@dimen/behavior_peek_height"
     app:layout_behavior="com.google.android.material.bottomsheet.BottomSheetBehavior">
 
     <View
